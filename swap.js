@@ -5,6 +5,7 @@
 //which indexes will actually swap with each other.
 //After this I made a variable called reversed and made it equal to the swapped array with the reverse method on it.
 //When I logged it as an array and as a variable it logs a reversed swapped array.
+//outputs will be the swapped array, and then the same array but reversed
 
 //Pseudo code:
 
